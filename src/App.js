@@ -1,10 +1,13 @@
 import './App.css';
+import MainLayout from './Layout/MainLayout'
+
 
 function App() {
-  return (
-    <div className="">
 
-    </div>
+  console.log('App')
+
+  return (
+    <MainLayout />
   );
 }
 
