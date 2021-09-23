@@ -1,9 +1,9 @@
-import Button from './Button'
+import Div from './Div'
 import Input from './Input'
 import P from './P'
 import Form from './Form'
 const Elements = {
-    Button,
+    Div,
     Input,
     P,
     Form,
