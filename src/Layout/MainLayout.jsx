@@ -24,6 +24,7 @@ function MainLayout() {
   if (search) {
     search.addEventListener("input", () => {
       setSearchText(search.value);
+      // console.log(search.value)
     });
   }
 
